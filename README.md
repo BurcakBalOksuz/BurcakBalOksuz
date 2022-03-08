@@ -1,4 +1,4 @@
-About Me:
+**About me:**
 
 -👋 Hi, I am Burcak Bal Oksuz and I live in Berlin.
 
