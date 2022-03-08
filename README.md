@@ -1,5 +1,7 @@
 👋 Hi, I am Burcak Bal Oksuz and I live in Berlin.
 
+📫 How to reach me : burcakbal35@gmail.com
+
 <!--
 **BurcakBalOksuz/BurcakBalOksuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
