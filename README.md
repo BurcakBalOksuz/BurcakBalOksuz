@@ -2,7 +2,7 @@
 
 -👋 Hi, I am Burcak Bal Oksuz and I live in Berlin.
 
--🔭 I am really enjoyed dealing with data. I am an ambitious Data Analytics and Data Scientist with background in business and operations management..
+-🔭 I am really enjoyed dealing with data. I am an ambitious Data Analytics and Data Scientist with background in business and operations management.
 
 -📫 How to reach me : burcakbal35@gmail.com
 
