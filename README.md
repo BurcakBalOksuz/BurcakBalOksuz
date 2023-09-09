@@ -2,7 +2,7 @@
 
 -👋 Hi, I am Burcak Bal Oksuz and I live in Berlin.
 
--🔭 I am a data scientist candidate, passionate about data, with 4 years of Data Analytics experience. 
+-🔭 I am a data scientist candidate, passionate about data, with 5 years of Data Analytics experience. 
 
 -📫 How to reach me : burcakbal35@gmail.com
 
